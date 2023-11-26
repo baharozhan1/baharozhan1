@@ -22,7 +22,4 @@ Hello, Welcome to My GitHub Page! 👋<br><br>I am Bahar OZHAN,I am a Front-End 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=baharozhan1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
